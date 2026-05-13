@@ -67,7 +67,7 @@ fun MenuDetailScreen(
                 )
             )
         },
-        containerColor = CreamBackground
+        containerColor = Background
     ) { paddingValues ->
         Column(
             modifier = Modifier

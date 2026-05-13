@@ -8,7 +8,7 @@ import androidx.compose.ui.graphics.Color
 val OrangePrimary = Color(0xFFFF6B35)
 val OrangeLight = Color(0xFFFF8C61)
 val OrangeDark = Color(0xFFE84A00)
-val CreamBackground = Color(0xFFFFF8F5)
+val Background = Color(0xFFFFF8F5)
 val SurfaceColor = Color(0xFFFFFFFF)
 val CardColor = Color(0xFFFFF3EE)
 val TextPrimary = Color(0xFF1A1A1A)
@@ -24,7 +24,7 @@ private val LightColorScheme = lightColorScheme(
     onPrimaryContainer = OrangeDark,
     secondary = Color(0xFF8D5524),
     onSecondary = Color.White,
-    background = CreamBackground,
+    background = Background,
     surface = SurfaceColor,
     onBackground = TextPrimary,
     onSurface = TextPrimary,
