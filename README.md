@@ -117,6 +117,7 @@ OrderViewModel (mutableStateListOf)
 
 | | |
 |---|---|
-| **Nama** | Leon Von Deusch |
+| **Nama** | Dandy ZIkri Arifandi |
+| **NIM** | 245150707111035 |
 | **Mata Kuliah** | Pemrograman Aplikasi Mobile |
-| **Tugas** | UTP (Ujian Tengah Program) |
+| **Tugas** | UTP |
