@@ -105,7 +105,7 @@ OrderViewModel (mutableStateListOf)
 - [x] Tanpa database / local storage (in-memory)
 - [x] Menggunakan Navigation Compose
 - [x] Minimal 2 halaman
-- [x] State management: `remember`, `mutableStateListOf`, `rememberSaveable`
+- [ ] State management: `remember`, `mutableStateListOf`, `rememberSaveable`
 - [x] State hoisting
 - [x] UI interaktif dan reactive
 - [x] Jumlah item tidak bisa negatif
