@@ -1,4 +1,4 @@
-package com.example.foodorderingapp.navigation
+package com.example.utppam.navigation
 
 import androidx.compose.runtime.Composable
 import androidx.navigation.NavHostController
@@ -6,9 +6,9 @@ import androidx.navigation.NavType
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.navArgument
-import com.example.foodorderingapp.screen.MenuDetailScreen
-import com.example.foodorderingapp.screen.MenuListScreen
-import com.example.foodorderingapp.viewmodel.OrderViewModel
+import com.example.utppam.screen.MenuDetailScreen
+import com.example.utppam.screen.MenuListScreen
+import com.example.utppam.viewmodel.OrderViewModel
 
 sealed class Screen(val route: String) {
     object Menu : Screen("menu")

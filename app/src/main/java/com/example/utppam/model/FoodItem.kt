@@ -1,4 +1,4 @@
-package com.example.foodorderingapp.model
+package com.example.utppam.model
 
 data class FoodItem(
     val id: Int,

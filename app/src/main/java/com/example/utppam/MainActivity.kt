@@ -1,4 +1,4 @@
-package com.example.foodorderingapp
+package com.example.utppam
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -8,9 +8,9 @@ import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.material3.Surface
 import androidx.compose.ui.Modifier
 import androidx.navigation.compose.rememberNavController
-import com.example.foodorderingapp.navigation.AppNavGraph
-import com.example.foodorderingapp.ui.theme.FoodOrderingAppTheme
-import com.example.foodorderingapp.viewmodel.OrderViewModel
+import com.example.utppam.navigation.AppNavGraph
+import com.example.utppam.ui.theme.FoodOrderingAppTheme
+import com.example.utppam.viewmodel.OrderViewModel
 
 class MainActivity : ComponentActivity() {
     private val viewModel: OrderViewModel by viewModels()

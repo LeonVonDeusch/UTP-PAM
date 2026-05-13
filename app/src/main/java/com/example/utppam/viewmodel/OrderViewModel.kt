@@ -1,8 +1,8 @@
-package com.example.foodorderingapp.viewmodel
+package com.example.utppam.viewmodel
 
 import androidx.compose.runtime.mutableStateListOf
 import androidx.lifecycle.ViewModel
-import com.example.foodorderingapp.model.FoodItem
+import com.example.utppam.model.FoodItem
 
 class OrderViewModel : ViewModel() {
 
